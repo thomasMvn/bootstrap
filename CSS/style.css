@@ -1,0 +1,36 @@
+.carousel-inner{
+    text-align: center;
+}
+.carousel{
+    margin-bottom: 4rem;
+}
+.carousel-indicators {
+    bottom: -50px;
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+body{
+    background-color: rgb(109, 136, 163);
+}
+
+#connect{
+    background-color: rgb(172, 185, 166);
+}
+
+[class*="col-"], footer {
+    background-color: lightgreen;
+    border: 2px solid black;
+    border-radius: 6px;
+    line-height: 40px;
+    text-align: center;
+  }
+/*[class*="col-"], footer {
+  background-color: lightgreen;
+  border: 2px solid black;
+  border-radius: 6px;
+  line-height: 40px;
+  text-align: center;
+}
